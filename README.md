@@ -1,0 +1,2 @@
+# hogkat
+Daily digest notes
